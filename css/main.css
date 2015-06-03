@@ -7,8 +7,9 @@ h1 {
   text-transform: uppercase;
 }
 
-h2, h3 {
+h3 {
   font-family: 'Montserrat', sans-serif;
+  font-size: 28px;
 }
 
 p {
@@ -59,7 +60,7 @@ footer {
 }
 
 footer p {
-  padding-right: 20px;
+  padding: 10px;
 }
 
 /*------------
@@ -159,4 +160,13 @@ MAIN
 
 }
 
+#contact p {
+  padding-top: 20px;
+}
+
+.program-description p {
+  margin-top: 30px;
+  font-size: 20px;
+  line-height: 32pt;
+}
 
