@@ -154,6 +154,18 @@ MAIN
   padding-top: 20px;
 }
 
+#program-info .center {
+  text-align: center;
+}
+
+#program-info i {
+  margin-bottom: 15px;
+}
+#program-info .center .col-md-3 {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
 #contact {
   text-align: center;
   padding-top: 20px;
