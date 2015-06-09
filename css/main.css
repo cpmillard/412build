@@ -28,12 +28,12 @@ a:hover {
   color: #e0b958!important;
 }
 
-.btn {
+.btn-primary {
   margin: 20px;
   padding: 20px;
   font-size: 20px;
-  background-color: #e0b958;
-  border: 2px solid #D6AD4D;
+  background-color: #e0b958!important;
+  border: 2px solid #D6AD4D!important;
 }
 
 .btn-primary:hover {
@@ -41,6 +41,9 @@ a:hover {
   border-color: #e0b958;
 }
 
+.btn-primary a:visited {
+  background-color: #e0b958!important
+}
 
 footer {
   color: #FFFFFF;
@@ -68,6 +71,12 @@ footer p {
 
 footer a {
   text-decoration: none!important;
+}
+
+.navbar-default img {
+  max-height: 80px;
+  max-width: 160px;
+  margin-left: 5%;
 }
 
 /*------------
@@ -167,6 +176,7 @@ MAIN
 
 #program-info i {
   margin-bottom: 15px;
+  color: #e0b958;
 }
 #program-info .center .col-md-3 {
   margin-top: 5%;
