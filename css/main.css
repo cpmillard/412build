@@ -28,12 +28,12 @@ a:hover {
   color: #e0b958!important;
 }
 
-.btn-primary {
+.btn {
   margin: 20px;
   padding: 20px;
   font-size: 20px;
-  background-color: #e0b958!important;
-  border: 2px solid #D6AD4D!important;
+  background-color: #e0b958;
+  border: 2px solid #D6AD4D;
 }
 
 .btn-primary:hover {
@@ -41,9 +41,6 @@ a:hover {
   border-color: #e0b958;
 }
 
-.btn-primary a:visited {
-  background-color: #e0b958!important
-}
 
 footer {
   color: #FFFFFF;
