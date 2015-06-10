@@ -18,6 +18,7 @@ p {
 
 img {
 	max-width: 100%;
+  margin-bottom: 3%;
 }
 
 .shadow {
@@ -161,6 +162,10 @@ MAIN
   margin-bottom: 10px;
 }
 
+#summary h1 {
+  padding-bottom: 3%;
+}
+
 #partners img {
 	display: block;
 	margin: 0 auto;
@@ -180,6 +185,11 @@ MAIN
   margin-bottom: 5%;
 }
 
+#program-info img {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
 #contact {
   text-align: center;
   padding-top: 20px;
@@ -195,4 +205,6 @@ MAIN
   font-size: 20px;
   line-height: 32pt;
 }
+
+
 
