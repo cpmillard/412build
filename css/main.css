@@ -260,3 +260,31 @@ MAIN
   }
 }
 
+/*mailchimp form*/
+
+#mailchimp {
+  color: #8C8A8C;
+  padding: 20px 15px;
+}
+#mailchimp input {
+  border: 1px solid gray;
+  border-radius: 5px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  margin-bottom: 10px;
+  padding: 8px 10px;
+  width: 300px;
+}
+.mail-btn{
+  color: #ffffff;
+  background-color: #e0b958;
+  border: 2px solid #e0b958!important;
+}
+
+.mail-btn:hover {
+  background-color: #ffffff;
+  border: 2px solid #e0b958!important;
+  color: #e0b958!important;
+
+}
+
